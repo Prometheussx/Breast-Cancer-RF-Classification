@@ -1,4 +1,5 @@
 # Breast Cancer Classification Using Random Forest
+![types-of-breast-cancer-guide-1440x810](https://github.com/Prometheussx/Breast-Cancer-RF-Classification/assets/54312783/f3a4e32e-3652-4a3a-b8c1-5ea75ae6a268)
 
 Breast cancer is a prevalent form of cancer among women. Early detection and accurate classification of breast tumors are crucial for effective treatment. This project aims to classify breast tumors as malignant (cancerous) or benign (non-cancerous) by using the Random Forest algorithm.
 
